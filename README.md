@@ -56,7 +56,8 @@ Results
 - `loss_plot.png`
 
 Sample Training Output
-```Epoch 10/10
+```
+Epoch 10/10
 6/6 ━━━━━━━━━━━━━━━━━━━━ 0s 37ms/step - accuracy: 0.8680 - loss: 0.3289 - val_accuracy: 0.8293 - val_loss: 0.5406
 2/2 ━━━━━━━━━━━━━━━━━━━━ 0s 248ms/step - accuracy: 0.8329 - loss: 0.3753
 Test Accuracy: 84.31%
