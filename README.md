@@ -56,20 +56,19 @@ Results
 - `loss_plot.png`
 
 Sample Training Output
-Epoch 10/10
+```Epoch 10/10
 6/6 ━━━━━━━━━━━━━━━━━━━━ 0s 37ms/step - accuracy: 0.8680 - loss: 0.3289 - val_accuracy: 0.8293 - val_loss: 0.5406
 2/2 ━━━━━━━━━━━━━━━━━━━━ 0s 248ms/step - accuracy: 0.8329 - loss: 0.3753
 Test Accuracy: 84.31%
+```
 
 Training Graphs
 
 Accuracy
-
-![Accuracy](accuracy_plot.png)
+![accuracy_plot](https://github.com/user-attachments/assets/2d149215-c30c-4802-834e-a5695e86a94b)
 
 Loss
-
-![Loss](loss_plot.png)
+![loss_plot](https://github.com/user-attachments/assets/432bb70b-a9d9-4156-92a2-616be9a8ce34)
 
 How to Run
 
